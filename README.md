@@ -1,16 +1,33 @@
-# React + Vite
+🧠 **Naman Shukla — AI/ML Developer Portfolio**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with React and Tailwind CSS, showcasing my journey, technical skills, and projects in Artificial Intelligence, Machine Learning, and Deep Learning.
 
-Currently, two official plugins are available:
+🚀 **Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive, elegant design using Tailwind CSS
 
-## React Compiler
+Smooth UI animations and modern layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Dedicated sections for About, Skills, Projects, and Contact
 
-## Expanding the ESLint configuration
+Dynamic project cards with live demo and GitHub links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean, modular code structure for easy customization
+
+**🧰 ****Tech Stack**
+
+Frontend: React.js, Tailwind CSS
+
+Design & Animations: Framer Motion, CSS Transitions
+
+Hosting: Vercel
+
+Version Control: Git & GitHub
+
+💡 **Purpose**
+
+To create a professional online presence that highlights my skills as an AI/ML Developer, my technical expertise, and the projects I’ve built using modern technologies.
+
+🌐 **Live Demo**
+
+🔗 
