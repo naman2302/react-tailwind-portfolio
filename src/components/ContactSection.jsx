@@ -90,7 +90,7 @@ export const ContactSection = () => {
 
             <div className="bg-card p-8 rounded-lg shadow-xs" onSubmit={handleSubmit}>
                 <h3 className="text-2xl font-semibold mb-6">Send a Message</h3>
-                <form className="space-y-6" >
+                <form className="space-y-6" action="https://formspree.io/f/mzzkblrr" method="POST">
                     <div>
                         <label htmlFor="name" className="block text-sm font-mdeium mb-2"> Your Name</label>
                         <input type="text" id="name" name="name" required
